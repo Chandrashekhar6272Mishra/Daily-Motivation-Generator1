@@ -32,7 +32,7 @@ This is a fun and friendly AI-powered web app that gives you short motivational 
        pip install python-dotenv
 
    OR (Quick test only):
-     Hardcode your key in project.py (not recommended for GitHub):
+     Hardcode your key in code.py:
        co = cohere.Client("your-api-key-here")
 
 4. Run the App
