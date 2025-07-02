@@ -1,5 +1,6 @@
 1.streamlit
 2.cohere
+------pip install streamlit cohere python-dotenv
 3.Create your cohere API Key
 4.Paste your API Key in the code
 5.Run the project in VS code terminal as streamlit run <your-code-file>.py
