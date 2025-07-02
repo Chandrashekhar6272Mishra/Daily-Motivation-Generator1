@@ -36,7 +36,7 @@ This is a fun and friendly AI-powered web app that gives you short motivational 
        co = cohere.Client("your-api-key-here")
 
 4. Run the App
-   streamlit run project.py
+   streamlit run code.py
    Then open http://localhost:8501 in your browser.
 
 🧠 Powered By
@@ -46,9 +46,9 @@ This is a fun and friendly AI-powered web app that gives you short motivational 
 
 📂 File Structure
 daily-motivation-generator/
-├── project.py         # Streamlit app
-├── requirements.txt   # Python dependencies
-├── .env               # API key (optional, not committed)
+
+├── code.py         # Streamlit app
+├── requirements.txt   # Python dependencies      
 └── README.md          # This file
 
 🙌 Contributing
